@@ -65,7 +65,9 @@ webapp-bug-collection
         outline: none !important;
     }
     
+**问题：** Android 圆角 Bug
 
+**解决：** 用boxshadow 来替换border
 
 
 
